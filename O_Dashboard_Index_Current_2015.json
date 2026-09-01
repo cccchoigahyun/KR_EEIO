@@ -1,0 +1,167 @@
+{
+  "year": "2015",
+  "p_type": "Current",
+  "intro_file": "O_Dashboard_00_Intro_2015.png",
+  "cards": [
+    {
+      "rank": 1,
+      "sector": "Electricity, gas, and steam supply",
+      "file": "O_Dashboard_Card_2015_01_Electricity gas and steam supply.png"
+    },
+    {
+      "rank": 2,
+      "sector": "Basic metal products",
+      "file": "O_Dashboard_Card_2015_02_Basic metal products.png"
+    },
+    {
+      "rank": 3,
+      "sector": "Chemical products",
+      "file": "O_Dashboard_Card_2015_03_Chemical products.png"
+    },
+    {
+      "rank": 4,
+      "sector": "Transportation",
+      "file": "O_Dashboard_Card_2015_04_Transportation.png"
+    },
+    {
+      "rank": 5,
+      "sector": "Transport equipment",
+      "file": "O_Dashboard_Card_2015_05_Transport equipment.png"
+    },
+    {
+      "rank": 6,
+      "sector": "Construction",
+      "file": "O_Dashboard_Card_2015_06_Construction.png"
+    },
+    {
+      "rank": 7,
+      "sector": "Non-metallic mineral products",
+      "file": "O_Dashboard_Card_2015_07_Non-metallic mineral products.png"
+    },
+    {
+      "rank": 8,
+      "sector": "Computing machinery, electronic equipment and optical instruments",
+      "file": "O_Dashboard_Card_2015_08_Computing machinery electronic equipment and optical instruments.png"
+    },
+    {
+      "rank": 9,
+      "sector": "Fabricated metal products, except machinery and furniture",
+      "file": "O_Dashboard_Card_2015_09_Fabricated metal products except machinery and furniture.png"
+    },
+    {
+      "rank": 10,
+      "sector": "Petroleum and coal products",
+      "file": "O_Dashboard_Card_2015_10_Petroleum and coal products.png"
+    },
+    {
+      "rank": 11,
+      "sector": "Machinery and equipment",
+      "file": "O_Dashboard_Card_2015_11_Machinery and equipment.png"
+    },
+    {
+      "rank": 12,
+      "sector": "Wholesale and retail trade and commodity brokerage services",
+      "file": "O_Dashboard_Card_2015_12_Wholesale and retail trade and commodity brokerage services.png"
+    },
+    {
+      "rank": 13,
+      "sector": "Food, beverages and tobacco products",
+      "file": "O_Dashboard_Card_2015_13_Food beverages and tobacco products.png"
+    },
+    {
+      "rank": 14,
+      "sector": "Professional, scientific, and technical services",
+      "file": "O_Dashboard_Card_2015_14_Professional scientific and technical services.png"
+    },
+    {
+      "rank": 15,
+      "sector": "Agricultural, forest, and fishery goods",
+      "file": "O_Dashboard_Card_2015_15_Agricultural forest and fishery goods.png"
+    },
+    {
+      "rank": 16,
+      "sector": "Food services and accommodation",
+      "file": "O_Dashboard_Card_2015_16_Food services and accommodation.png"
+    },
+    {
+      "rank": 17,
+      "sector": "Electrical equipment",
+      "file": "O_Dashboard_Card_2015_17_Electrical equipment.png"
+    },
+    {
+      "rank": 18,
+      "sector": "Health and social care services",
+      "file": "O_Dashboard_Card_2015_18_Health and social care services.png"
+    },
+    {
+      "rank": 19,
+      "sector": "Water supply, sewage and waste treatment and disposal services",
+      "file": "O_Dashboard_Card_2015_19_Water supply sewage and waste treatment and disposal services.png"
+    },
+    {
+      "rank": 20,
+      "sector": "Education services",
+      "file": "O_Dashboard_Card_2015_20_Education services.png"
+    },
+    {
+      "rank": 21,
+      "sector": "Textile and leather products",
+      "file": "O_Dashboard_Card_2015_21_Textile and leather products.png"
+    },
+    {
+      "rank": 22,
+      "sector": "Communications and broadcasting",
+      "file": "O_Dashboard_Card_2015_22_Communications and broadcasting.png"
+    },
+    {
+      "rank": 23,
+      "sector": "Public administration, defense, and social security services",
+      "file": "O_Dashboard_Card_2015_23_Public administration defense and social security services.png"
+    },
+    {
+      "rank": 24,
+      "sector": "Real estate services",
+      "file": "O_Dashboard_Card_2015_24_Real estate services.png"
+    },
+    {
+      "rank": 25,
+      "sector": "Manufacturing services and repair services of industrial equipment",
+      "file": "O_Dashboard_Card_2015_25_Manufacturing services and repair services of industrial equipment.png"
+    },
+    {
+      "rank": 26,
+      "sector": "Wood and paper products, printing and reproduction of recorded media",
+      "file": "O_Dashboard_Card_2015_26_Wood and paper products printing and reproduction of recorded media.png"
+    },
+    {
+      "rank": 27,
+      "sector": "Finance and insurance",
+      "file": "O_Dashboard_Card_2015_27_Finance and insurance.png"
+    },
+    {
+      "rank": 28,
+      "sector": "Other services",
+      "file": "O_Dashboard_Card_2015_28_Other services.png"
+    },
+    {
+      "rank": 29,
+      "sector": "Other manufactured products",
+      "file": "O_Dashboard_Card_2015_29_Other manufactured products.png"
+    },
+    {
+      "rank": 30,
+      "sector": "Art, sports, and leisure services",
+      "file": "O_Dashboard_Card_2015_30_Art sports and leisure services.png"
+    },
+    {
+      "rank": 31,
+      "sector": "Business support services",
+      "file": "O_Dashboard_Card_2015_31_Business support services.png"
+    },
+    {
+      "rank": 32,
+      "sector": "Mined and quarried goods",
+      "file": "O_Dashboard_Card_2015_32_Mined and quarried goods.png"
+    }
+  ]
+}
